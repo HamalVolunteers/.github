@@ -32,4 +32,5 @@ CMake (for Windows builds)
 GitHub Projects for issue tracking & multi-repo linkage
 
 📚 Architecture Diagram
+![Architecture Diagram](diagram.svg)
 
