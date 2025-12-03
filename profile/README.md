@@ -1,7 +1,7 @@
 # 👐 Hamal Volunteers
 
 ## Hamal Volunteers is a cross-platform volunteer-management system built with Flutter (frontend) and Python (backend tooling).
-##I t aims to simplify managing volunteers, events, and attendance across multiple organizations.
+## It aims to simplify managing volunteers, events, and attendance across multiple organizations.
 
 ## 🚀 Features
 
