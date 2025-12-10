@@ -1,35 +1,20 @@
 # 👐 Hamal Volunteers
 
-## Hamal Volunteers is a cross-platform volunteer-management system built with Flutter (frontend) and Python (backend tooling).
-## It aims to simplify managing volunteers, events, and attendance across multiple organizations.
+## What is Hamal Volunteers
+Hamal Volunteers is a complete, user-friendly system for organizing and managing volunteers and events. It helps keep track of people, events, capacity, and participation — all in one place.
 
 ## 🚀 Features
 
-### 📱 Flutter app for Windows / Web / Mobile
+### Easy event system 🔥
+* Create, update or cancel events in seconds.
+* Set and adjust participant limits to avoid overbooking.
+* View who has signed up, so you always know how many people are committed.
 
-### 🔐 Firebase authentication
+### Simple user interface
+* Allow volunteers to personelize their prefrences.
+* Recieve only the events that fits you perfectly
+* You are also welcome to get out of your comfort zone and search other events 😄
 
-### 🗃️ Cloud Firestore database
-
-### 🧭 Manage events: create, update, set capacity, view participants
-
-### 👥 Manage users and tags
-
-### 🔄 Backend Python scripts for maintenance, data checks, and tooling
-
-### 🛠️ Modular architecture for easy extension
-
-## 🔧 Technology Stack
-
-### Flutter (Dart)
-
-### Firebase: Auth, Firestore
-
-### Python: tooling, scripts
-
-### CMake (for Windows builds)
-
-### GitHub Projects for issue tracking & multi-repo linkage
 
 # 📚 Architecture Diagram
 ![Architecture Diagram](diagram.svg)
