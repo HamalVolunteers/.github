@@ -243,6 +243,8 @@ The polish and pages sprint? (maybe)
 - [ ]  Understand how to use zoho.-**Inbar**
 - [ ]  sign Up-**Sagie**
 - [x]  Sign up backend-**Inbar**
+- [ ]  Play store stuff-**Yonathan**
+
 
 סיכום דרישות מהלקוח:
 
