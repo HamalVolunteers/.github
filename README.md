@@ -241,6 +241,7 @@ The polish and pages sprint? (maybe)
 - [x]  Users have points! (gonna be fun). backend-**Inbar**
 - [ ]  Users have points! (gonna be fun). interlayer-**Roman**
 - [ ]  Understand how to use zoho.-**Inbar**
+- [ ]  Complaints screen-**Andrii**
 - [ ]  sign Up-**Sagie**
 - [x]  Sign up backend-**Inbar**
 - [ ]  Play store stuff-**Yonathan**
