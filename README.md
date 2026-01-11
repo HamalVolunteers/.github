@@ -229,8 +229,8 @@ The polish and pages sprint? (maybe)
 ## Sprint 2.67
 
 - [ ]  Update the filter by your filters (last sprint remain)-**Sagie**
-- [ ]  Update news fetching by date (last sprint remains)-**Itamar**
-- [ ]  Update that each time you enter the choose filters window you fetch the filters (last sprint remains)-**Itamar**
+- [x]  Update news fetching by date (last sprint remains)-**Itamar**
+- [x]  Update that each time you enter the choose filters window you fetch the filters (last sprint remains)-**Itamar**
 - [ ]  Add a view my activities page to check your activities (same as normal, just what I signed for) (last sprint remains)-**Sagie**
 
 ## Sprint 3
